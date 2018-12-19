@@ -1,0 +1,166 @@
+ul {
+    list-style-type: none;
+    margin: -8px;
+    
+    overflow: hidden;
+    background-color: rgb(14, 13, 13) ;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 21px 17px;
+    text-decoration: none;
+}
+
+
+.w {
+position: absolute;
+padding-left: 100px;
+width: 400px;
+left: 850px;
+right: 50;
+text-align: center;
+padding-left: 2px;
+background-color:whitesmoke;
+}
+
+
+.h {
+    
+    width: 351px;
+    left: 500px;
+    text-align: center;
+        background-color:  #f1bf36; 
+        border: 1px solid  #ebb727; 
+        color: white; 
+        padding: 10px 24px;
+        cursor: pointer; 
+         
+        margin-top: 13px;
+    
+}
+
+.img1 {
+width: 165px;
+bottom: 100px;
+margin-left:50px ;
+margin-top: -65px;
+}
+
+.img2{
+width:250px;
+position:absolute ;
+left: 67px;
+right: 40px;
+}
+
+.T {
+    position: absolute;
+   height: 80%;
+   left:5% ;
+   bottom: -10%;
+   
+   }
+
+.b1{
+    width: 351px;
+    background-color: rgb(130, 177, 188);
+    padding: 10px 24px;
+    margin-left: -5px;
+    margin-top: 33px;
+    height: 39px;
+    text-align: center;  
+        border: 1px solid  rgb(130, 177, 188); 
+        color: white; 
+       
+        
+   
+}
+
+
+
+.u {
+    padding: 10px;
+}
+
+.icon1{
+
+    
+    width: 70px;
+    margin-top: 630px;
+    left: 50px;
+    margin-left: 112px;
+}
+
+.icon2{
+    
+    width: 70px;
+    margin-top: -240px;
+    margin-left: 537px;
+    
+}
+
+.icon3{
+    width: 113px;
+    margin-top: -277px;
+    margin-left: 999px;
+}
+
+.i{
+    width: 250px;
+    border: 3px solid #ccc;
+    transition : 0.5s;
+    padding: 4px 54px;
+    
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+
+.title1{
+    margin-left: 45px;
+}
+
+.sentence1{
+    margin-left: 10px;
+}
+
+.title2{
+    margin-left: 461px;
+    margin-top: -152px;
+}
+
+.sentence2{
+    margin-left: 436px;
+
+}
+
+.title3{
+
+    margin-left:977px;
+    margin-top:-171px;
+}
+
+.sentence3{
+    margin-left:937px;
+
+}
+
+.footer{
+
+   
+    margin-left: -8;
+    margin-right: -8;
+    bottom: 0;
+    height:390px;
+    background-color: black;
+    color: white;
+    
+}

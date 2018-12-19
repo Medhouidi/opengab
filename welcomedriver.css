@@ -1,0 +1,133 @@
+ul {
+    list-style-type: none;
+    margin: -8px;
+    
+    overflow: hidden;
+    background-color: rgb(14, 13, 13) ;
+}
+
+li {
+    float: right;
+    
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 17px;
+    text-decoration: none;
+}
+
+
+
+.img1 {
+    width: 165px;
+    bottom: 100px;
+    margin-left:50px ;
+    margin-top: -40px;
+    }
+
+    .sidebar{
+
+        height: 100%;
+        width: 186px;
+        position: fixed;
+       
+        margin-top: 9px;
+        left: 0;
+        background-color: #111;
+        overflow-x: visible;
+        
+    }
+
+    .sidebar a {
+        padding: 6px 8px 6px 16px;
+        text-decoration: none;
+        font-size: 20px;
+        color: #818181;
+        display: block;
+        
+      }
+
+      .sidebar a:hover {
+
+        color: #f1c95b;
+    }
+
+      .content {
+        margin-left: 186px; 
+        padding: 9px 10px;
+      }
+
+      .noun{
+          margin-left: 452px;
+          margin-top: 59px;
+      }
+         
+
+      .pic1{
+
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        left: 659px;
+        top: 109px;
+        border-radius: 80px;
+    }
+    .pic2{
+
+        width: 1112px;
+        height: 150px;
+        margin-left: -17px;
+        
+    }
+
+    .info{
+        position: relative;
+     border: 0px solid black;
+     width: 1080px;
+     top: 1px;
+     
+    }
+    .table,td{
+        text-align: center;
+    }
+
+    .b1 button {
+        background-color:  #f1bf36; 
+        border: 1px solid  #ebb727; 
+        color: white; 
+        padding: 10px 24px;
+        cursor: pointer; 
+        float: left; 
+        margin-top: 13px;
+    }
+
+    .b1 button:hover {
+        background-color: #ebb727;
+    }
+   
+    .prof{
+            
+        position: absolute;
+        border: 2px solid lightgray;
+        left:502px;
+        margin-top: 30px;
+        height: 150px;
+       }
+
+       .line2 {
+        width: 754px;
+        margin-top: 107px;
+        border-bottom: 2px solid lightgray;
+        position: absolute;
+        margin-left: 311px;
+    }
+
+    .time{
+
+        position: absolute;
+        margin-left: 415px;
+        margin-top: -70px;
+       }

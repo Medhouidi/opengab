@@ -1,0 +1,130 @@
+ul {
+    list-style-type: none;
+    margin: -8px;
+    
+    overflow: hidden;
+    background-color: rgb(14, 13, 13) ;
+}
+
+li {
+    float: right;
+    
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 17px;
+    text-decoration: none;
+}
+
+.img1 {
+    width: 165px;
+    bottom: 100px;
+    margin-left:50px ;
+    margin-top: -40px;
+    }
+
+    .sidebar{
+
+        height: 100%;
+        width: 186px;
+        position: fixed;
+       
+        margin-top: 9px;
+        left: 0;
+        background-color: #111;
+        overflow-x: visible;
+        
+    }
+
+    .sidebar a {
+        padding: 6px 8px 6px 16px;
+        text-decoration: none;
+        font-size: 20px;
+        color: #818181;
+        display: block;
+        
+      }
+
+      .new{
+       
+     border: 2px solid lightgray;
+     height: 195px;
+     text-align: left;
+     margin-top: 80px;
+     margin-left: 453px;
+    }
+
+   .b{
+       width: 200px;
+       margin-left: 700px;
+       margin-top: 150px;
+       background-color: rgb(130, 177, 188);
+       border: 1px solid rgb(130, 177, 188);
+       height: 30px;
+       color: white;
+   }
+
+   .b1{
+    width: 120px;
+    
+    background-color: green;
+    border: 1px solid green;
+    height: 30px;
+    color: white;
+   }
+
+   .b2{
+    width: 120px;
+    
+    background-color: red;
+    border: 1px solid red;
+    height: 30px;
+    color: white;
+
+   }
+
+   .time{
+    margin-left: 480px;
+    position: relative;
+    top: -76px;
+   }
+
+   .wholetime{
+    margin-left: 420px;
+    position: absolute;
+    margin-top: 3px;
+   }
+
+
+   .wholedis{
+    margin-left: 420px;
+    position: absolute;
+    margin-top: -27px;
+   }
+
+   .cit1{
+    margin-left: 420px;
+    position: absolute;
+    margin-top: -60px;
+   }
+
+   .cit2{
+    margin-left: 420px;
+    position: absolute;
+    margin-top: -91px;
+   }
+   
+   .fare{
+    margin-left: 420px;
+    position: absolute;
+    margin-top: 34px  
+   }
+
+   .t2{
+    margin-left: 420px;
+    position: absolute;
+    margin-top: -125px  
+   }

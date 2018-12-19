@@ -1,0 +1,151 @@
+ul {
+    list-style-type: none;
+    margin: -15px;
+    
+    overflow: hidden;
+    background-color: rgb(14, 13, 13) ;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 34px 17px;
+    text-decoration: none;
+}
+
+
+.w2 {
+   
+
+    position: absolute;
+padding-left: 100px;
+width: 597px;
+left: 420px;
+right: 50;
+text-align: center;
+padding-left: 2px;
+background-color:whitesmoke;
+}
+
+.h{
+    width: 351px;
+    margin-left: 88px;
+    text-align: center;
+    padding: 10px 24px;
+    cursor: pointer; 
+     margin-top: 13px;
+        
+}
+
+
+
+.b2{
+
+    width: 351px;
+    background-color: rgb(130, 177, 188);
+    padding: 10px 24px;
+    margin-left: -5px;
+    margin-top: 33px;
+    height: 39px;
+    text-align: center;  
+        border: 1px solid  rgb(130, 177, 188); 
+        color: white; 
+}
+
+.i{
+    width: 357px;
+    border: 3px solid #ccc;
+    transition : 0.5s;
+    padding: 4px 54px;
+    
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+
+.img1{
+    width: 165px;
+    bottom: 100px;
+    margin-left:574px ;
+    margin-top: -45px;
+}
+
+.img {
+ position: absolute;
+height: 80%;
+left:10% ;
+
+}
+
+
+
+
+.img3{
+
+    width: 1303px;
+
+height: 15px;
+
+margin-top: 6px;
+margin-left: -13px;
+
+}
+
+.f{
+
+    width: 351px;
+    background-color: #3b5998;
+    padding: 10px 24px;
+    margin-left: -5px;
+    margin-top: 10px;
+    height: 39px;
+    text-align: center;  
+        border: 1px solid  #3b5998; 
+        color: white;
+}
+
+.g{
+    width: 351px;
+    background-color: #dd4b39;
+    padding: 10px 24px;
+    margin-left: -5px;
+    margin-top: 10px;
+    height: 39px;
+    text-align: center;  
+        border: 1px solid  #dd4b39; 
+        color: white;
+
+
+}
+
+.c{
+
+    width: 1346px;
+
+    margin-left: -433px;
+    
+    height: 300px;
+    
+    top: 8px;
+    
+    position: relative;
+}
+
+.footer{
+
+    margin-left: -423;
+    margin-right: -8;
+    bottom: 0;
+    height: 254px;
+    background-color: black;
+    color: white;
+    width: 1308;
+    
+
+}
